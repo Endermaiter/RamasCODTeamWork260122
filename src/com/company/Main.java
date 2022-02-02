@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Primer Commit MASTER");
         System.out.println("Primer commit COLABORADOR");
         System.out.println("Segundo cambio COLABORADOR");
+        System.out.println("Tercero cambio COLABORADOR");
     }
 
 }
